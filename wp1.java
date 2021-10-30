@@ -1,6 +1,6 @@
 public class wp1 {
     public static void main(String[] args){
-        String name = "신승훈";
+        String name = "신승훈_테스트";
         int name1 = -1, name2 = -1, name3 = -1;
         
         for (int i = Character.MIN_VALUE; i <= Character.MAX_VALUE; i++) {
